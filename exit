@@ -1,0 +1,65 @@
+[33mcommit 5eaf85117ecb4349e0d7b3845a8ed8c009d31dc2[m
+Author: Summy <2437404258@qq.com>
+Date:   Fri Jun 22 11:37:51 2018 +0000
+
+    Add user statuses
+
+[33mcommit fd1bd414bb31fcc53ae3ecd728a42a0195a5464d[m
+Author: Summy <2437404258@qq.com>
+Date:   Fri Jun 22 08:58:10 2018 +0000
+
+    Add user statuses
+
+[33mcommit 68fea4382e0ed9676d63eadc312977f1e4b6adda[m
+Author: Summy <2437404258@qq.com>
+Date:   Fri Jun 22 08:27:27 2018 +0000
+
+    Add password reset and email configuration
+
+[33mcommit 0aa5e5a9799b5ca17e9e0282368d3e183555bd35[m
+Author: Summy <2437404258@qq.com>
+Date:   Fri Jun 22 08:14:12 2018 +0000
+
+    Add acount activations
+
+[33mcommit 8c11d42e90b1cbad866c5ad9ac69e20598b5c64c[m
+Author: Summy <2437404258@qq.com>
+Date:   Fri Jun 22 03:13:33 2018 +0000
+
+    Finish user edit, update, index, and destory actions
+
+[33mcommit 2ba52cde8ecd9b490c6e77db939e9c5b38d89bd7[m
+Author: Summy <2437404258@qq.com>
+Date:   Thu Jun 21 13:02:11 2018 +0000
+
+    Finish login and logout
+
+[33mcommit 506ebebcf657bad52778ae8496cb10a2a8b93694[m
+Author: Summy <2437404258@qq.com>
+Date:   Thu Jun 21 12:44:33 2018 +0000
+
+    Finish user signup
+
+[33mcommit 6bb5e72c0cad61ca5d57935a57924c74c7623c58[m
+Author: Summy <2437404258@qq.com>
+Date:   Thu Jun 21 12:21:43 2018 +0000
+
+    Move user model to models folder
+
+[33mcommit f58621e72323dbb507670011f3491eab898aba86[m
+Author: Summy <2437404258@qq.com>
+Date:   Thu Jun 21 12:11:24 2018 +0000
+
+    Finish layout and routes
+
+[33mcommit 5eae4cfd2736df5ed3601c60aa289443177b911e[m
+Author: Summy <2437404258@qq.com>
+Date:   Thu Jun 21 16:38:06 2018 +0800
+
+    Finish static pages
+
+[33mcommit ef7393b491e202f04f7c4739e69f0c0552a58371[m
+Author: Summy <2437404258@qq.com>
+Date:   Thu Jun 21 08:21:02 2018 +0000
+
+    initial commit
